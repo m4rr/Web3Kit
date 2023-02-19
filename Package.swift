@@ -5,10 +5,10 @@ import PackageDescription
 
 let package = Package(
     name: "Web3Kit",
-        platforms: [
-             .iOS(.v14),
-      .macOS(.v10_15),
-    ],
+//         platforms: [
+//              .iOS(.v14),
+//       .macOS(.v10_15),
+//    ],
     products: [
       .library(name: "Web3Kit", targets: ["Web3Kit"]),
     ],
