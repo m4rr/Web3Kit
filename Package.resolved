@@ -21,10 +21,9 @@
       },
       {
         "package": "Wei",
-        "repositoryURL": "https://github.com/KevinVitale/Wei.git",
+        "repositoryURL": "https://github.com/m4rr/Wei.git",
         "state": {
           "branch": null,
-          "revision": "623a3b621e7179dca090489c4e8c4ce3281d5ec6",
           "version": "1.0.0"
         }
       }
