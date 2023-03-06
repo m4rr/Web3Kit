@@ -7,7 +7,7 @@ let package = Package(
     name: "Web3Kit",
         platforms: [
              .iOS(.v13),
-//       .macOS(.v10_15),
+      .macOS(.v10_15),
    ],
     products: [
       .library(name: "Web3Kit", targets: ["Web3Kit"]),
